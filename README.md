@@ -2,12 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... iOS App Templates
-- 🌱 I’m currently learning ... AWS
-- 👯 I’m looking to collaborate on ... Swift
-- 🤔 I’m looking for help with ... SwiftUI
+- 🔭 I’m currently working on ... Automotive OEM Digital Displays
+- 🌱 I’m currently learning ... Embedded Systems
+- 👯 I’m looking to collaborate on ... Automotive Projects
+- 🤔 I’m looking for help with ... Lin Bus Communication
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... Eric@EmpireAppDesignz.com
+- 📫 How to reach me: ... EmpireAppDesignz@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finished!
 - MapBox Interview: ... [Mapbox](https://blog.mapbox.com/2020-phantom-motorcycle-460-hp-280-lb-ft-torque-in-dash-navigation-1b64254c6fc4)
